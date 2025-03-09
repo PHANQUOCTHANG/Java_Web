@@ -1,3 +1,4 @@
 SƠ ĐỒ ERD :
 
-![Screenshot 2025-03-08 094713](https://github.com/user-attachments/assets/61d7ecac-f210-439a-964e-70892b62d34b)
+![Screenshot 2025-03-09 153427](https://github.com/user-attachments/assets/6ace0665-9b9e-4a3c-9469-62585814516f)
+
